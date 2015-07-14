@@ -221,7 +221,8 @@ hello[^1]
 	```
 
 
-更多可以参考[www.zybuluo.com](https://www.zybuluo.com/AntLog/note/63228 "zybuluo的博客，还可以在线编辑")
+更多可以参考[www.zybuluo.com](https://www.zybuluo.com/AntLog/note/63228 "zybuluo的博客，还可以在线编辑")  
+**这个人很厉害的样子，模仿一下？**
 - - - 
 然并卵，上面的好像**不能用**，还是看下面的吧
 - - - 
