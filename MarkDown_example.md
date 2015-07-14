@@ -295,3 +295,5 @@ Tags: 数学 英语
 **Q2.** MakeDown 删除线
 
 > **？？**好像没效果，编辑器里面没有效果，但是挂到github上就可以显示了
+
+图灵社区的一个学习链接：[MarkDown](http://www.ituring.com.cn/article/504 "MarkDown")
