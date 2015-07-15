@@ -254,13 +254,13 @@ hello[^1]
 	
 	1.9.2 示例
 	
-	|标题|
-	
-	|         序号    |    交易名    |    交易说明    |    备注    |
-	|    ------: |    :-------:    |    :---------   |    ------    |
-	|    1    |    prfcfg    |    菜单配置    |    可以通过此交易查询到所有交易码和菜单的对应关系    |
-	|    2    |    gentmo    |    编译所有交易    |    |
-	|    100000    |    sysdba    |    数据库表模型汇总    |    |  
+|标题|
+
+|         序号    |    交易名    |    交易说明    |    备注    |
+|    ------: |    :-------:    |    :---------   |    ------    |
+|    1    |    prfcfg    |    菜单配置    |    可以通过此交易查询到所有交易码和菜单的对应关系    |
+|    2    |    gentmo    |    编译所有交易    |    |
+|    100000    |    sysdba    |    数据库表模型汇总    |    |  
 	
 		  
 	
@@ -271,7 +271,17 @@ hello[^1]
 更多可以参考[www.zybuluo.com](https://www.zybuluo.com/AntLog/note/63228 "zybuluo的博客，还可以在线编辑")  
 **这个人很厉害的样子，模仿一下？**
 - - - 
-然并卵，上面的好像**不能用**，还是看下面的吧
+然并卵，上面的好像**不能用**，还是看下面的吧  
+
+**``` 升级就可以用了```**
+
+注册email:  
+ 
+	www.zixue.it
+	
+注册码:
+	
+	4vuvQFtGkF0oH7by922v75FtaUGq7niFveCKDxqC2KSqYTfaSGzxzxKQXNhc2BG51N9URrF71PZcBGdVxEm41c/FasBJQybIEYkahzRnjGwhaEocTe2eye6RZpzjaEvoz9fm04e2oyveK5wjXAXVmTRTDnTJvbNG7pEH1y6SC5mgxbhrNQ5/2GyQD7Ml/X2ipVZ7MdQkFdkEiM+H+99/ar0azcwrdQ8s0Zg31kjdcbVsL3DjW2GMlvxsvGpCVjn7savohzdhHq7QjFrl5/C4e6TVsEjaaBSVkAA18ag2Dvx7c2vOf9OlndNZxE8GARRSV2lQdahNKlrKIYK3E3UpgQ==
 - - - 
 目前编辑器不支持表格，以往是通过截图，呈现的效果并不好，Markdown支持html，所以我们可以用html来写表格。但是......用html写表格，实在太麻烦了，这里有个简单的转换方法，供大家参考：
 
